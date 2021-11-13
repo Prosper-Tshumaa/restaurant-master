@@ -51,7 +51,7 @@
 
                                     ?>
                                      <tr>
-                                     <td><?PHP ECHO $id; ?></td>
+                                     <td><?PHP ECHO $sn++; ?></td>
                                      <td><?php echo $full_name; ?></td>
                                      <td><?php echo $username; ?></td>
                                      <td>
