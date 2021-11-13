@@ -5,7 +5,7 @@
               <div class="wrapper">
                 <h1>Manage admin</h1>
 
-               <table>
+               <table class="tbl-full">
                  <tr>
                    <th>S.N.</th>
                    <th>Full Name</th>

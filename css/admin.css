@@ -25,6 +25,10 @@
     clear: both;
 }
 
+.tbl-full{
+    width: 100%;
+}
+
 /*CSS for Menu*/
 .menu{
     text-align: center;
