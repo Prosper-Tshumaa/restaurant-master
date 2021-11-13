@@ -12,6 +12,15 @@
                    <th>Username</th>
                    <th>Actions</th>                 
                   </tr>
+                  <tr>
+                       <td>1.</td>
+                       <td>Prosper Tshuma</td>
+                       <td>prospertshuma</td>
+                       <td>
+                         Update Admin
+                         Delete Admin
+                       </td>
+                  </tr>
                </table> 
 
               </div>
