@@ -1,0 +1,67 @@
+/* 
+    Author: Prosper Tshuma;
+    Theme: Restaurant Food Order Admin;
+    version: 1.0;
+*/
+
+*{
+    margin: 0;
+    padding: 2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+    padding: 2px;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.clearfix{
+    float: none;
+    clear: both;
+}
+
+/*CSS for Menu*/
+.menu{
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+.menu ul a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #ff6b81;
+}
+.menu ul li a:hover{
+    color: #ff4757;
+}
+
+/*CSS for Main content*/
+.main-content{
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+.col-4{
+    width: 17%;
+    background-color: white;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+}
+
+/*CSS for Footer*/
+.footer{
+    background-color: #ff4757;
+    color: aliceblue;
+    padding: 1% 0;
+}
