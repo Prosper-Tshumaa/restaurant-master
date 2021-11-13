@@ -133,3 +133,5 @@
     <!-- fOOD Menu Section Ends Here -->
 
     <?php include('partials.frontend/footer.php'); ?>
+    
+    
