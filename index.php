@@ -47,7 +47,7 @@
     </section>
     <!-- Categories Section Ends Here -->
 
-    <!-- fOOD MEnu Section Starts Here -->
+    <!-- fOOD MEnu Section Starts Heree -->
     <section class="food-menu">
         <div class="container">
             <h2 class="text-center">Food Menu</h2>
