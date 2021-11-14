@@ -4,7 +4,7 @@
     <section class="food-search text-center">
         <div class="container">
             
-            <form action="food-search.html" method="POST">
+            <form action="food-search.php" method="POST">
                 <input type="search" name="search" placeholder="Search for Food.." required>
                 <input type="submit" name="submit" value="Search" class="btn btn-primary">
             </form>
@@ -18,7 +18,7 @@
         <div class="container">
             <h2 class="text-center">Explore Foods</h2>
 
-            <a href="category-foods.html">
+            <a href="category-foods.php">
             <div class="box-3 float-container">
                 <img src="images/pizza.jpg" alt="Pizza" class="img-responsive img-curve">
 
@@ -65,7 +65,7 @@
                     </p>
                     <br>
 
-                    <a href="order.html" class="btn btn-primary">Order Now</a>
+                    <a href="order.php" class="btn btn-primary">Order Now</a>
                 </div>
             </div>
 
