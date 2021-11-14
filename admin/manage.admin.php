@@ -10,7 +10,7 @@
                 <!-- Button to add Admin -->
                 <a href="add.admin.php" class="btn-primary">Add Admin</a>
 
-                <br /><br /><br />
+                <br /><br /><br /><br />
                <table class="tbl-full">
                  <tr>
                    <th>S.N.</th>
@@ -50,6 +50,7 @@
                                     //Display the Values in our Table
 
                                     ?>
+                              
                                      <tr>
                                      <td><?PHP ECHO $sn++; ?></td>
                                      <td><?php echo $full_name; ?></td>
