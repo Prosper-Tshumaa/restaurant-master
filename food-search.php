@@ -1,7 +1,7 @@
 <?php include('partials.frontend/menu.php'); ?>
 
-       <!-- fOOD sEARCH Section Starts Here -->
-       <section class="food-search text-center">
+   <!-- fOOD sEARCH Section Starts Here -->
+   <section class="food-search text-center">
         <div class="container">
             <?php 
 
